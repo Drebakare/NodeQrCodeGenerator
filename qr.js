@@ -11,5 +11,5 @@ let output_data = process.argv[3] || null;
      console.log('QR code Successfully Created');
  }
  else{
-     console.log("Kindly check the command line argument");
+     console.log("Kindly check the command line argument!");
  }

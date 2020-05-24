@@ -9,6 +9,6 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "qr-image": "^3.2.0"
+    "qr-image": "3.2.0"
   }
 }
